@@ -1,0 +1,7 @@
+org\mytests\uiobjects\example\custom\MarvelUser.class
+org\mytests\uiobjects\example\site\SiteJdi.class
+org\mytests\uiobjects\example\site\pages\MarvelousPage.class
+org\mytests\uiobjects\example\entities\Defaults.class
+org\mytests\uiobjects\example\entities\MarvelUserInfo.class
+org\mytests\uiobjects\example\custom\Avatar.class
+org\mytests\uiobjects\example\entities\User.class
