@@ -35,8 +35,8 @@
         </dependency>
         <dependency>
             <groupId>com.applitools</groupId>
-            <artifactId>eyes-selenium-java4</artifactId>
-            <version>RELEASE</version>
+            <artifactId>eyes-selenium-java3</artifactId>
+            <version>3.158.5</version>
         </dependency>
         <!--dependency>
             <groupId>com.epam.jdi</groupId>

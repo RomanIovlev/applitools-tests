@@ -9,6 +9,7 @@ import com.epam.jdi.light.elements.pageobjects.annotations.locators.UI;
 import com.epam.jdi.light.ui.html.elements.common.Icon;
 import com.epam.jdi.light.ui.html.elements.common.Text;
 import org.mytests.uiobjects.example.entities.User;
+import org.mytests.uiobjects.example.site.pages.Html5Page;
 import org.mytests.uiobjects.example.site.pages.MarvelousPage;
 
 public class SiteJdi {
@@ -16,6 +17,8 @@ public class SiteJdi {
     public static WebPage homePage;
     @Url("/user-table.html") @Title("User Table")
     public static MarvelousPage marvelousPage;
+    @Url("/html5.html") @Title("HTML 5")
+    public static Html5Page html5Page;
 
     @UI("form") public static Form<User> loginForm;
 
